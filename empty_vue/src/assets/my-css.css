@@ -1,0 +1,28 @@
+header.el-header{
+  padding: 0px;
+}
+li.el-menu-item{
+  padding: 0 0 0 85px!important;
+  font-size: 16px;
+}
+div.el-submenu__title{
+  font-size: 18px!important;
+}
+
+main.el-main{
+  padding: 0px!important;
+}
+.el-button{
+  padding: 5px 10px;
+}
+input.el-upload__input{
+  disabled: 'none'!important;
+  opacity: 0!important;
+  width: 0px;
+  position: absolute;
+  top: 0px;
+  z-index: -1;
+}
+.el-progress-bar__innerText{
+  margin-top: -5px;
+}
